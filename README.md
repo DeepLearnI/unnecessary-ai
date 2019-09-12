@@ -1,0 +1,2 @@
+# unnecessaryai
+unnecessary.ai
