@@ -151,7 +151,8 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
+			/*color: #f2849e !important; PINK */
+			color: #499CF8 !important;
 		}
 
 	strong, b {
