@@ -2,8 +2,6 @@
 
 🐳 **hello!** We're a collective made up of fun-loving builders of artificial intelligence. 
 
-***
-
 **unnecessary.ai** was created to feature machine learning projects which capture the 
 spirit of human creativity.
 
@@ -14,4 +12,4 @@ creators everywhere.
 **Interested in adding your unnecessary project to this page?** 
 We welcome pull requests. 
 
-This website & repository is maintained by Helen Ngo (**h.ngo[at]dessa[dot]com**). 
+This website & repository is maintained by Helen Ngo (**@mathemakitten**). 
