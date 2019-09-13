@@ -9,7 +9,11 @@ We're starting off by featuring projects built by our machine learning engineers
 in-house at [Dessa](http://dessa.com), but we'd love to spotlight projects from 
 creators everywhere. 
 
-**Interested in adding your unnecessary project to this page?** 
+
+*** 
+
+
+**Interested in adding your project to unnecessary.ai?** 
 We welcome pull requests. 
 
 This website & repository is maintained by Helen Ngo (**@mathemakitten**). 
