@@ -1,2 +1,3 @@
-# unnecessaryai
-unnecessary.ai
+# unnecessary.ai
+
+We're a collective of 
