@@ -3339,8 +3339,10 @@ input, select, textarea {
 
 /* Social media bar */
 
-@media (max-width: 500px) {
-	.icon_bar {display:none}
+@media screen and (max-width: 500px) {
+	.icon-bar {
+		visibility: hidden;
+	}
 }
 
 /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
